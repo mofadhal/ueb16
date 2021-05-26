@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Dialog
+comment1.params=
+comment1.target=int\ einlesenFunction()
+comment1.text=\r\n\ diese\ Methode\ ist\ zum\ Auswahl\ der\ Klassen\r\n\r\n\ @return\ The\ return\ value\r\n
+comment2.params=
+comment2.target=void\ crunchLengthAndNumbers()
+comment2.text=\r\n\ neue\ Array-nummer\ einzulegen\r\n
+comment3.params=
+comment3.target=void\ chosseFrom()
+comment3.text=\r\n\ diese\ Methode\ ist\ zum\ ausw\u00E4hlen\ einer\ Methode\r\n\r\n
+comment4.params=
+comment4.target=void\ chosseOperation()
+comment4.text=\r\n\ diese\ Methode\ ist\ zum\ ausw\u00E4hlen\ einer\ Operation\r\n\r\n
+comment5.params=funktion
+comment5.target=void\ ausfuehrungFunction(int)
+comment5.text=\r\n\ diese\ Methode\ ist\ zum\ ausf\u00FChren\ der\ Funktionen\r\n\r\n\ @param\ funktion\ ist\ die\ ausgew\u00E4hlte\ Funktion\r\n
+comment6.params=
+comment6.target=void\ Start()
+comment6.text=\r\n\ diese\ Methode\ ist\ zum\ starten\ des\ Programms\r\n\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

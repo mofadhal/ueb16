@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sum
+comment0.text=\r\n\r\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ Alkhadraa)\r\n\ @version\ (25.05.2021)\r\n
+comment1.params=values
+comment1.target=void\ crunch(float[])
+comment1.text=\r\n\ diese\ Methode\ summiert\ die\ Elemente\ im\ Array\ paarweise\ von\ links\ nach\ rechts\r\n\ und\ speichert\ den\ neuen\ Wert\ in\ dem\ jeweils\ rechten\ Datenfeld\r\n\ @param\ values\ ist\ das\ uebergegebene\ Array\r\n
+numComments=2

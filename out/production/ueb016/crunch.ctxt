@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=crunch
+comment0.text=\r\n\r\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ Alkhadraa)\r\n\ @version\ (25.05.2021)\r\n
+comment1.params=operations
+comment1.target=void\ crunch(java.lang.String[])
+comment1.text=\r\n\ diese\ Methode\ beinhaltet\ die\ Operationen\r\n\r\n\ @param\ operations\ sind\ die\ ausgew\u00E4hlte\ operationen\r\n
+numComments=2
