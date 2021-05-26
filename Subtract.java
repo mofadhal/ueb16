@@ -21,7 +21,7 @@ public class Subtract implements CrunchOperation{
         if (values.length <= 1)
             return ;
         for(int i = 0 ; i  < values.length -1 ; i++ ){
-            values[i+1] = values[i] - values[i+1];
+            values[i+1] -= values[i] ;
         }
 
     }
